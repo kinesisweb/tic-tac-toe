@@ -1,0 +1,15 @@
+{
+	"name": "tic-tac-toe",
+	"version": "1.0.0",
+	"description": "Simple implementation of the common game with adaptive AI",
+	"main": "server.js",
+	"scripts": {
+		"test": "npm run test",
+		"start": "node server.js"
+	},
+	"author": "Craig Riley",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
+}
